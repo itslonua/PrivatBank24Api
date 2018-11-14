@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PrivatBank24Api</string>
+    <string name="splash_activity_app_title">PocketBank Assistent</string>
+    <string name="error_network_message">Network Error, try later &#8230;</string>
+</resources>
